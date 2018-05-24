@@ -1,0 +1,17 @@
+SOCName,Total Employment,Number of Records,Mean Prevailing Wage,Mean National Wage,Median Prevailing Wage,Median National Wage,Foreign to National Ratio,Mean Wage Difference,Median Wage Difference
+Computer_Programmers,320100,33524,57060,76010,55245,72630,0.1047,-18950,-17385
+Computer_Systems_Analysts,487740,27487,61057,82320,58427,78770,0.0564,-21263,-20343
+Software_Developers_Applications,539880,17413,75244,92080,71406,89280,0.032253464,-16836,-17874
+Database_Administrators,108500,1788,59294,77350,55910,75190,0.0165,-18056,-19280
+Financial_Analysts,226340,3063,65690,87740,61942,75650,0.0135,-22050,-13708
+Operations_Research_Analysts,65030,482,65468,78840,59603,71950,0.0074,-13372,-12347
+Mechanical_Engineers,238260,1744,62916,83550,59530,79230,0.0073,-20634,-19700
+Management_Analysts,538950,3501,61764,87980,57782,78490,0.0065,-26216,-20708
+Computer_Occupations_All_Other,177630,961,57245,80500,57678,79930,0.0054,-23255,-22252
+Network_and_Computer_Systems_Administrators,341800,1437,58730,74270,58323,70970,0.0042,-15540,-12647
+Software_Developers_Systems_Software,387050,1339,80351,100420,80457,96600,0.0035,-20069,-16143
+Electronics_Engineers_Except_Computer,136310,271,76486,94670,74110,91500,0.002,-18184,-17390
+Market_Research_Analysts_and_Marketing_Specialists,318190,567,45229,67130,42411,60250,0.0018,-21901,-17839
+Electrical_Engineers,154250,247,70736,89200,67787,85920,0.0016,-18464,-18133
+Accountants_and_Auditors,1085150,1192,49215,70130,47299,62850,0.0011,-20915,-15551
+Physicians_and_Surgeons_All_Other,305590,99,111300,184650,105457,0,0.0003,-73350,0
